@@ -1,6 +1,16 @@
-- 👋 Hi, I’m Gustavo Bezerra;
-- 👀 I’m interested in AI, Python and Data stuff;
-- 🌱 I leanerd programming logic basics with C, and I'm currantly studying Python; 
-- 🌱 I'm studying in Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)- Associate Degree;
-- 💞️ I’m looking for a remote/hybrid job - intern;
-- 📫 How to reach me - email: g.bezerra.contato@gmail.com;
+public class Main {
+
+  public static void main(String[] args){
+
+  Presentation myPresentation = new Presentation();
+  
+  myPresentation.name = "Gustavo Bezerra";
+  myPresentation.whatAmIStudy = "I'm currently learnig OOP with Java, check up my studies";
+  myPresentation.intress = "I’m interested in Back-End stuff";
+  myPresentation.email =  "g.bezerra.contato@gmail.com";
+  
+  If (myPresentation.youWantToReachMe == TRUE) {
+  System.out.println("contact me at: " + myPresentation.email);
+    }
+  }
+}
