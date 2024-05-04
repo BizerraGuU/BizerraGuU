@@ -1,7 +1,7 @@
 <div align="center">
   <span>
     <h1>Hello, I'm Gustavo,</h1>
-    <h3>I'm a student in Devlopment with Java. Please take a look at my <a href="https://github.com/BizerraGuU/BizerraGuU/blob/resources/CV%20-%20Gustavo%20Bezerra%20de%20Andrade.png" target="_blank">resume</a> for more information.</h3>
+    <h3>I'm a Java Programming student. Please take a look at my <a href="https://github.com/BizerraGuU/BizerraGuU/blob/resources/CV%20-%20Gustavo%20Bezerra%20de%20Andrade.png" target="_blank">resume</a> for more information.</h3>
   </span>
 </div>
 <div align="center">
