@@ -16,9 +16,9 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <details>
-  <summary><h3>GitHub Profile Stats 💻</h3></summary>
+  <summary><h4>GitHub Profile Stats 💻</h4></summary>
   <div align="center">
-    <h2>GitHub Stats</h2>
+    <h3>GitHub Stats</h3>
     <details open>
       <summary><h3>Languages</h3></summary>
       <p>
@@ -28,8 +28,8 @@
       </p>
       <p>
         <a href="https://github.com/BizerraGuU/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BizerraGuU&theme=dark&layout=compact&hide_border=true" alt="BizerraGuU :: Top Langs by repo">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BizerraGuU&theme=dark&layout=compact&hide_border=true" alt="BizerraGuU :: Top Langs by commit">
+          <img width="25%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BizerraGuU&theme=dark&layout=compact&hide_border=true" alt="BizerraGuU :: Top Langs by repo">
+          <img width="25%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BizerraGuU&theme=dark&layout=compact&hide_border=true" alt="BizerraGuU :: Top Langs by commit">
         </a>
       </p>
     </details>
@@ -46,9 +46,9 @@
 </details>
 
 <details>
-  <summary><h3>Latest Activity Graph 📈</h3></summary>
+  <summary><h4>Latest Activity Graph 📈</h4></summary>
   <br>
-  <h2 align="center">Latest Contribution</h2>
+  <h3 align="center">Latest Contribution</h3>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="Azzar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=BizerraGuU&theme=dark&hide_border=true">
   </a>
@@ -56,7 +56,7 @@
 </details>
 
 <details>
-<summary><h3> My Skills 💡</h3></summary> 
+<summary><h4> My Skills 💡</h4></summary> 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
