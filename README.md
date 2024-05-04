@@ -4,7 +4,6 @@
     <h3>I'm a student in Devlopment with Java. Please take a look at my <a href="https://github.com/BizerraGuU/BizerraGuU/blob/resources/CV%20-%20Gustavo%20Bezerra%20de%20Andrade.png" target="_blank">resume</a> for more information.</h3>
   </span>
 </div>
-
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
     <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
@@ -14,7 +13,6 @@
 
 ### Here, above, some of my current stats and knowledge:
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <details>
   <summary><h4>GitHub Profile Stats 💻</h4></summary>
   <div align="center">
@@ -28,8 +26,8 @@
       </p>
       <p>
         <a href="https://github.com/BizerraGuU/">
-          <img width="25%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BizerraGuU&theme=dark&layout=compact&hide_border=true" alt="BizerraGuU :: Top Langs by repo">
-          <img width="25%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BizerraGuU&theme=dark&layout=compact&hide_border=true" alt="BizerraGuU :: Top Langs by commit">
+          <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BizerraGuU&theme=dark&layout=compact&hide_border=true" alt="BizerraGuU :: Top Langs by repo">
+          <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BizerraGuU&theme=dark&layout=compact&hide_border=true" alt="BizerraGuU :: Top Langs by commit">
         </a>
       </p>
     </details>
@@ -37,14 +35,13 @@
       <summary><h3>Statistics</h3></summary>
       <p>
         <a href="https://github.com/BizerraGuU/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=BizerraGuU&show_icons=true&theme=dark&hide_border=true">
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=BizerraGuU&theme=dark&hide_border=true">
+          <img width="45%" src="https://github-readme-stats.vercel.app/api?username=BizerraGuU&show_icons=true&theme=dark&hide_border=true">
+          <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=BizerraGuU&theme=dark&hide_border=true">
         </a>
       </p>
     </details>
   </div>
 </details>
-
 <details>
   <summary><h4>Latest Activity Graph 📈</h4></summary>
   <br>
@@ -54,7 +51,6 @@
   </a>
   <br>
 </details>
-
 <details>
 <summary><h4> My Skills 💡</h4></summary> 
 
