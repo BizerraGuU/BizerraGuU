@@ -59,32 +59,32 @@
 
 ### Main Stack:
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=blue)&nbsp;
+![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=orange)&nbsp;
 
 ### Secondary Stack:
 
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Csharp](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=purple)&nbsp;
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow)&nbsp;
 
 ### Studying in this moment:
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=orange)&nbsp;
 
 ### Next steps:
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=green)&nbsp;
+![Spring](https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=pear)&nbsp;
 
 ### Workstation Tools:
 
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp;
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
+![Eclipse](https://img.shields.io/badge/Eclipse-000000?style=for-the-badge&logo=eclipse&logoColor=orange)&nbsp;
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=green)&nbsp;
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)&nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual%20studio&logoColor=orchid)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=pink)&nbsp;
 
 &nbsp;
 &nbsp;
@@ -94,11 +94,11 @@
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/bizerragu/?igsh=MXR4dzZ6MG56NWlmNw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://www.instagram.com/bizerragu/?igsh=MXR4dzZ6MG56NWlmNw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%000000?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href = "https://stackoverflow.com/users/23498042/gustavo-bezerra"> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gustavo-bezerra-705b51216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://www.reddit.com/user/BizarreG/" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"  target="_blank"></a> 
+<a href = "https://stackoverflow.com/users/23498042/gustavo-bezerra"> <img src="https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stack-overflow&logoColor=lime" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gustavo-bezerra-705b51216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%000000?style=for-the-badge&logo=linkedin&logoColor=blue"  target="_blank"></a> 
+<a href="https://www.reddit.com/user/BizarreG/" target="_blank"><img src="https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=reddit&logoColor=orange"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
 
 
