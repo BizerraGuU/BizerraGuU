@@ -21,13 +21,13 @@
       <summary><h3>Languages</h3></summary>
       <p>
         <a href="https://github.com/BizerraGuU/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BizerraGuU&langs_count=6&theme=dark&layout=compact&hide_border=true" alt="BizerraGuU :: overall Top Langs">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BizerraGuU&langs_count=6&theme=great-gatsby&layout=compact&hide_border=false" alt="BizerraGuU :: overall Top Langs">
         </a>
       </p>
       <p>
         <a href="https://github.com/BizerraGuU/">
-          <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BizerraGuU&theme=dark&layout=compact&hide_border=true" alt="BizerraGuU :: Top Langs by repo">
-          <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BizerraGuU&theme=dark&layout=compact&hide_border=true" alt="BizerraGuU :: Top Langs by commit">
+          <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BizerraGuU&theme=gruvbox&layout=compact&hide_border=false" alt="BizerraGuU :: Top Langs by repo">
+          <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BizerraGuU&theme=gruvbox&layout=compact&hide_border=false" alt="BizerraGuU :: Top Langs by commit">
         </a>
       </p>
     </details>
@@ -35,26 +35,20 @@
       <summary><h3>Statistics</h3></summary>
       <p>
         <a href="https://github.com/BizerraGuU/">
-          <img width="45%" src="https://github-readme-stats.vercel.app/api?username=BizerraGuU&show_icons=true&theme=dark&hide_border=true">
-          <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=BizerraGuU&theme=dark&hide_border=true">
+          <img width="45%" src="https://github-readme-stats.vercel.app/api?username=BizerraGuU&show_icons=true&theme=great-gatsby&hide_border=false">
+          <img width="47.7%" src="https://github-readme-streak-stats.herokuapp.com/?user=BizerraGuU&theme=great-gatsby&hide_border=false">
         </a>
       </p>
     </details>
   </div>
 
-##Featured Repositories:
-
-[![exerciseAlura](https://github-readme-stats.vercel.app/api/pin/?username=BizerraGuU&repo=exerciseAlura)](https://github.com/BizerraGuU/exerciseAlura)
-
-[![JavaStudy](https://github-readme-stats.vercel.app/api/pin/?username=BizerraGuU&repo=JavaStudy)](https://github.com/BizerraGuU/JavaStudy)
-  
 </details>
 <details>
   <summary><h4>Latest Activity Graph 📈</h4></summary>
   <br>
   <h3 align="center">Latest Contribution</h3>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Azzar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=BizerraGuU&theme=dark&hide_border=true">
+    <img alt="Azzar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=BizerraGuU&theme=great-gatsby&hide_border=true">
   </a>
   <br>
 </details>
@@ -67,11 +61,11 @@
 ### Main Stack:
 
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=blue)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=orange)&nbsp;
 
 ### Secondary Stack:
 
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=blue)&nbsp;
 ![Csharp](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=purple)&nbsp;
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow)&nbsp;
 
@@ -93,9 +87,19 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual%20studio&logoColor=orchid)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=pink)&nbsp;
 
+
 &nbsp;
 &nbsp;
 
+</details>
+
+<details>
+  
+ <summary><h4>Featured Repositories:</h4></summary> 
+
+[![exerciseAlura](https://github-readme-stats.vercel.app/api/pin/?username=BizerraGuU&repo=exerciseAlura)](https://github.com/BizerraGuU/exerciseAlura)
+[![JavaStudy](https://github-readme-stats.vercel.app/api/pin/?username=BizerraGuU&repo=JavaStudy)](https://github.com/BizerraGuU/JavaStudy)
+  
 </details>
 
 ## Contacts:
