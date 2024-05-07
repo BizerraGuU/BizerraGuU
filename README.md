@@ -97,9 +97,9 @@
   
  <summary><h4>Featured Repositories:</h4></summary> 
  
-[![C-Archive](https://github-readme-stats.vercel.app/api/pin/?username=BizerraGuU&repo=C-Archive)](https://github.com/BizerraGuU/C-Archive)
 [![exerciseAlura](https://github-readme-stats.vercel.app/api/pin/?username=BizerraGuU&repo=exerciseAlura)](https://github.com/BizerraGuU/exerciseAlura)
 [![JavaStudy](https://github-readme-stats.vercel.app/api/pin/?username=BizerraGuU&repo=JavaStudy)](https://github.com/BizerraGuU/JavaStudy)
+[![C-Archive](https://github-readme-stats.vercel.app/api/pin/?username=BizerraGuU&repo=C-Archive)](https://github.com/BizerraGuU/C-Archive)
   
 </details>
 
