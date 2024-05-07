@@ -48,7 +48,7 @@
   <br>
   <h3 align="center">Latest Contribution</h3>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Azzar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=BizerraGuU&theme=great-gatsby&hide_border=true">
+    <img alt="Azzar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=BizerraGuU&theme=github-compact&hide_border=true">
   </a>
   <br>
 </details>
