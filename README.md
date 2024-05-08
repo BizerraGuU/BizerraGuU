@@ -25,10 +25,6 @@
         </a>
       </p>
       <p>
-        <a href="https://github.com/BizerraGuU/">
-          <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BizerraGuU&theme=gruvbox&layout=compact&hide_border=false" alt="BizerraGuU :: Top Langs by repo">
-          <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BizerraGuU&theme=gruvbox&layout=compact&hide_border=false" alt="BizerraGuU :: Top Langs by commit">
-        </a>
       </p>
     </details>
     <details open>
