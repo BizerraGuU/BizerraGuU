@@ -91,7 +91,7 @@
 
 <details>
   
- <summary><h4>Featured Repositories:</h4></summary> 
+ <summary><h4>Featured Repositories 📂</h4></summary> 
  
 [![exerciseAlura](https://github-readme-stats.vercel.app/api/pin/?username=BizerraGuU&repo=exerciseAlura)](https://github.com/BizerraGuU/exerciseAlura)
 [![JavaStudy](https://github-readme-stats.vercel.app/api/pin/?username=BizerraGuU&repo=JavaStudy)](https://github.com/BizerraGuU/JavaStudy)
