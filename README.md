@@ -94,10 +94,10 @@
  <summary><h4>Featured Repositories 📂</h4></summary> 
  
 [![exerciseAlura](https://github-readme-stats.vercel.app/api/pin/?username=BizerraGuU&repo=exerciseAlura)](https://github.com/BizerraGuU/exerciseAlura)
-[![JavaStudy](https://github-readme-stats.vercel.app/api/pin/?username=BizerraGuU&repo=JavaStudy)](https://github.com/BizerraGuU/JavaStudy)
+[![Bootcamp-dio-java-basico](https://github-readme-stats.vercel.app/api/pin/?username=BizerraGuU&repo=Bootcamp-dio-java-basico)](https://github.com/BizerraGuU/Bootcamp-dio-java-basico)
 [![C-Archive](https://github-readme-stats.vercel.app/api/pin/?username=BizerraGuU&repo=C-Archive)](https://github.com/BizerraGuU/C-Archive)
 [![Python](https://github-readme-stats.vercel.app/api/pin/?username=BizerraGuU&repo=Python)](https://github.com/BizerraGuU/Python)
-  
+
 </details>
 
 ## Contacts:
@@ -105,7 +105,7 @@
 <div> 
 <a href="https://www.instagram.com/bizerragu/?igsh=MXR4dzZ6MG56NWlmNw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href = "https://stackoverflow.com/users/23498042/gustavo-bezerra"> <img src="https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stack-overflow&logoColor=lime" target="_blank"></a>
+<a href ="https://stackoverflow.com/users/23498042/gustavo-bezerra"> <img src="https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stack-overflow&logoColor=lime" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gustavo-bezerra-705b51216/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="https://www.reddit.com/user/BizarreG/" target="_blank"><img src="https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=reddit&logoColor=orange"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
