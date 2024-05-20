@@ -93,7 +93,7 @@
   
  <summary><h4>Featured Repositories 📂</h4></summary> 
  
-[![exerciseAlura](https://github-readme-stats.vercel.app/api/pin/?username=BizerraGuU&repo=exerciseAlura)](https://github.com/BizerraGuU/exerciseAlura)
+[![-mentoring-askedapp](https://github-readme-stats.vercel.app/api/pin/?username=BizerraGuU&repo=-mentoring-askedapp)](https://github.com/BizerraGuU/-mentoring-askedapp)
 [![Bootcamp-dio-java-basico](https://github-readme-stats.vercel.app/api/pin/?username=BizerraGuU&repo=Bootcamp-dio-java-basico)](https://github.com/BizerraGuU/Bootcamp-dio-java-basico)
 [![C-Archive](https://github-readme-stats.vercel.app/api/pin/?username=BizerraGuU&repo=C-Archive)](https://github.com/BizerraGuU/C-Archive)
 [![Python](https://github-readme-stats.vercel.app/api/pin/?username=BizerraGuU&repo=Python)](https://github.com/BizerraGuU/Python)
