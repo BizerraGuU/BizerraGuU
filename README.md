@@ -94,9 +94,12 @@
  <summary><h4>Featured Repositories 📂</h4></summary> 
  
 [![-mentoring-askedapp](https://github-readme-stats.vercel.app/api/pin/?username=BizerraGuU&repo=-mentoring-askedapp)](https://github.com/BizerraGuU/-mentoring-askedapp)
+
+[![dio-collections-java](https://github-readme-stats.vercel.app/api/pin/?username=BizerraGuU&repo=dio-collections-java)](https://github.com/BizerraGuU/dio-collections-java)
+
 [![Bootcamp-dio-java-basico](https://github-readme-stats.vercel.app/api/pin/?username=BizerraGuU&repo=Bootcamp-dio-java-basico)](https://github.com/BizerraGuU/Bootcamp-dio-java-basico)
-[![C-Archive](https://github-readme-stats.vercel.app/api/pin/?username=BizerraGuU&repo=C-Archive)](https://github.com/BizerraGuU/C-Archive)
-[![Python](https://github-readme-stats.vercel.app/api/pin/?username=BizerraGuU&repo=Python)](https://github.com/BizerraGuU/Python)
+
+[![Dio-Java-OOP](https://github-readme-stats.vercel.app/api/pin/?username=BizerraGuU&repo=Dio-Java-OOP)](https://github.com/BizerraGuU/Dio-Java-OOP)
 
 </details>
 
