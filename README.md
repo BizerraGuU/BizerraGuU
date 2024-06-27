@@ -20,12 +20,11 @@
 </div>&nbsp;&nbsp;
 
 ## GitHub Profile Stats 💻
-  <div align="left">
-        <a href="https://github.com/BizerraGuU/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BizerraGuU&langs_count=6&theme=great-gatsby&layout=compact&hide_border=false" alt="BizerraGuU :: overall Top Langs"> 
-          <img width="33%" src="https://github-readme-stats.vercel.app/api?username=BizerraGuU&show_icons=true&theme=great-gatsby&hide_border=false" alt="BizerraGuU">
-        </a>
-  </div>
+
+<div> 
+<img width=65% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BizerraGuU&theme=nord_dark&hide_border=false" > 
+  <img width=31.7% src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BizerraGuU&theme=nord_dark&hide_border=false"">
+</div>
 
 ## My Skills 💡
 
