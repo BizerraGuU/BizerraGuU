@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/gustavo-bezerra-705b51216/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue"></a> 
 <a href="https://www.reddit.com/user/BizarreG/" target="_blank"><img src="https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=reddit&logoColor=orange"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
-<hr>
+
 
 
 
@@ -26,39 +26,65 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Programming Languages:
+<div align="left">
+  <span>
+    <h2>Programming Languages 🐍</h2>
+</div>
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow)&nbsp;
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=blue)&nbsp;
-![C#](https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=csharp&logoColor=purple)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow" >
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=blue">
+  <img src="https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=csharp&logoColor=purple">
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white">
+    
+</div>
+
+<div align="left">
+  <span>
+    <h2>AI 🤖</h2>
+</div>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/chatGPT-000000?style=for-the-badge&logo=openai&logoColor=light-green" >
+</div>
 
 
-#### AI:
+<div align="left">
+  <span>
+    <h2>Frameworks🧩</h2>
+</div>
 
-![ChatGPT](https://img.shields.io/badge/chatGPT-000000?style=for-the-badge&logo=openai&logoColor=light-green)
+<div align="left">
+  <img src="https://img.shields.io/badge/angular-000000.svg?style=for-the-badge&logo=angular&logoColor=red" >
+  <img src="https://img.shields.io/badge/django-000000.svg?style=for-the-badge&logo=django&logoColor=green">
+    
+</div>
 
-#### Frameworks:
 
-![Angular](https://img.shields.io/badge/angular-000000.svg?style=for-the-badge&logo=angular&logoColor=red)
-![Django](https://img.shields.io/badge/django-000000.svg?style=for-the-badge&logo=django&logoColor=green)
+<div align="left">
+  <span>
+    <h2>OS 🐧</h2>
+</div>
 
-#### DB:
+<div align="left">
+  <img src="https://img.shields.io/badge/Debian-000000?style=for-the-badge&logo=debian&logoColor=pink">
+  <img src="https://img.shields.io/badge/Pop!_OS-000000?style=for-the-badge&logo=Pop!_OS&logoColor=blue">
+    
+</div>
 
-> I'm working on it
+<div align="left">
+  <span>
+    <h2>Workstation Tools 🛠️</h2>
+</div>
 
-#### OS: 
+<div align="left">
+  <img src="https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual%20studio&logoColor=orchid" >
+  <img src="https://img.shields.io/badge/Eclipse-000000?style=for-the-badge&logo=eclipse&logoColor=orange">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue">
+    
+</div>
 
-![Debian](https://img.shields.io/badge/Debian-000000?style=for-the-badge&logo=debian&logoColor=pink)
-![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-000000?style=for-the-badge&logo=Pop!_OS&logoColor=blue)
-### Workstation Tools:
-
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual%20studio&logoColor=orchid)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-000000?style=for-the-badge&logo=eclipse&logoColor=orange)&nbsp;
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)&nbsp;
-
-&nbsp;
-&nbsp;
+<b></b>
 
 ## Latest Activity Graph 📈
   <br>
