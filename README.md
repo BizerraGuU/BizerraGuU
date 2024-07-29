@@ -69,15 +69,14 @@
 </div>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual%20studio&logoColor=orchid" >
   <img src="https://img.shields.io/badge/Eclipse-000000?style=for-the-badge&logo=eclipse&logoColor=orange">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     
 </div>
 
 <b></b>
 
-## Latest Activity Graph 📈
+<h2 align= "center">Latest Activity Graph 📈</h2>
   <br>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img align = "center" width="100%" alt="Azzar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=BizerraGuU&theme=github-compact&hide_border=true">
