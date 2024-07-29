@@ -1,15 +1,10 @@
 <div align="center">
   <span>
     <h1>Hello, I'm Gustavo</h1>
-<div align="left">
-  <span>
-    <h2>Reach me 📬</h2>
-</div>
-<div align="left" > 
-<a href ="https://stackoverflow.com/users/23498042/gustavo-bezerra"> <img src="https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stack-overflow&logoColor=lime" target="_blank"></a>
+  <a href ="https://stackoverflow.com/users/23498042/gustavo-bezerra"> <img src="https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stack-overflow&logoColor=lime" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gustavo-bezerra-705b51216/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue"></a> 
 <a href="https://www.reddit.com/user/BizarreG/" target="_blank"><img src="https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=reddit&logoColor=orange"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
+</div>
 
 
 
