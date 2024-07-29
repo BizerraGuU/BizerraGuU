@@ -22,12 +22,6 @@
   <img width=31.7% src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BizerraGuU&theme=nord_dark&hide_border=false"">
 </div>
 
-## My Skills 💡
-
-
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-
 <div align="left">
   <span>
     <h2>Programming Languages 🐍</h2>
