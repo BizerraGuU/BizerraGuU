@@ -25,7 +25,6 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow" >
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=blue">
-  <img src="https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=csharp&logoColor=purple">
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white">
     
 </div>
@@ -46,7 +45,6 @@
 </div>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/angular-000000.svg?style=for-the-badge&logo=angular&logoColor=red" >
   <img src="https://img.shields.io/badge/django-000000.svg?style=for-the-badge&logo=django&logoColor=green">
     
 </div>
@@ -59,7 +57,6 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/Debian-000000?style=for-the-badge&logo=debian&logoColor=pink">
-  <img src="https://img.shields.io/badge/Pop!_OS-000000?style=for-the-badge&logo=Pop!_OS&logoColor=blue">
     
 </div>
 
