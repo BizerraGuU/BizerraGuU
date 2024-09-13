@@ -8,67 +8,26 @@
 
 
 
+<div align="center">
+  <span>
+    <h2>Stacks and Tools 🐍🛠️</h2>
+</div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow" >
+  <img src="https://img.shields.io/badge/django-000000.svg?style=for-the-badge&logo=django&logoColor=green">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  
+</div>
 
-## GitHub Profile Stats 💻
+<div align="center"><h2>GitHub Stats <img src= "https://github.githubassets.com/images/icons/emoji/octocat.png" width=3%></h2>
 
-<div> 
+<div align = "center"> 
 <img width=65% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BizerraGuU&theme=nord_dark&hide_border=false" > 
   <img width=31.7% src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BizerraGuU&theme=nord_dark&hide_border=false"">
 </div>
-
-<div align="left">
-  <span>
-    <h2>Programming Languages 🐍</h2>
-</div>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow" >
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=blue">
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white">
-    
-</div>
-
-<div align="left">
-  <span>
-    <h2>AI 🤖</h2>
-</div>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/chatGPT-000000?style=for-the-badge&logo=openai&logoColor=light-green" >
-</div>
-
-
-<div align="left">
-  <span>
-    <h2>Frameworks🧩</h2>
-</div>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/django-000000.svg?style=for-the-badge&logo=django&logoColor=green">
-    
-</div>
-
-
-<div align="left">
-  <span>
-    <h2>OS 🐧</h2>
-</div>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Debian-000000?style=for-the-badge&logo=debian&logoColor=pink">
-    
-</div>
-
-<div align="left">
-  <span>
-    <h2>Workstation Tools 🛠️</h2>
-</div>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Eclipse-000000?style=for-the-badge&logo=eclipse&logoColor=orange">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-    
 </div>
 
 <b></b>
