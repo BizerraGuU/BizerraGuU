@@ -31,13 +31,18 @@
 </div>
 
 <b></b>
-
+<div>
 <h2 align= "center">Latest Activity Graph 📈</h2>
   <br>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img align = "center" width="100%" alt="Azzar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=BizerraGuU&theme=github-compact&hide_border=true">
   </a>
   <br>
+</div>
+
+<div align="center" >
+<a href="https://10fastfingers.com/typing-test/portuguese"><img src="http://img.10fastfingers.com/badge/typing-test_4_CC.png" alt="Typing Test" /></a><p>Visit the <a href="https://10fastfingers.com/typing-test/portuguese">Typing Test</a> and try!</p>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BizerraGuU&icon=0&color=9)](https://visitcount.itsvg.in)
