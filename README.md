@@ -40,8 +40,10 @@
   <br>
 </div>
 
+
+
 <div align="center" >
-<a href="https://10fastfingers.com/typing-test/portuguese"><img src="http://img.10fastfingers.com/badge/typing-test_4_CC.png" alt="Typing Test" /></a><p>Visit the <a href="https://10fastfingers.com/typing-test/portuguese">Typing Test</a> and try!</p>
+<a href="https://10fastfingers.com/typing-test/portuguese"><img src="http://img.10fastfingers.com/badge/typing-test_4_CI.png" alt="Typing Test" /></a><p>Visite o <a href="https://10fastfingers.com/typing-test/portuguese">Teste de Digitação</a> e tente!</p>
 </div>
 
 ---
