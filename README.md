@@ -1,52 +1,80 @@
+<!-- HEADER COM ONDA -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
+
+<!-- TÍTULO E LINKS -->
 <div align="center">
-  <span>
-    <h1>Hello, I'm Gustavo</h1>
-  <a href ="https://stackoverflow.com/users/23498042/gustavo-bezerra"> <img src="https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stack-overflow&logoColor=lime" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gustavo-bezerra-705b51216/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue"></a> 
-<a href="https://www.reddit.com/user/BizarreG/" target="_blank"><img src="https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=reddit&logoColor=orange"  target="_blank"></a> 
-</div>
 
+  <h1>Hi, I'm Gustavo 👋</h1>
+  <h3>| Full-Stack Developer | AI Enthusiast | Python & Django | Genesis Genomics |</h3>
 
-
-<div align="center">
-  <span>
-    <h2>Stacks and Tools 🐍🛠️</h2>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow" >
-  <img src="https://img.shields.io/badge/django-000000.svg?style=for-the-badge&logo=django&logoColor=green">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  
-</div>
-
-<div align="center"><h2>GitHub Stats <img src= "https://github.githubassets.com/images/icons/emoji/octocat.png" width=3%></h2>
-
-<div align = "center"> 
-<img width=65% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BizerraGuU&theme=nord_dark&hide_border=false" > 
-  <img width=31.7% src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BizerraGuU&theme=nord_dark&hide_border=false"">
-</div>
-</div>
-
-<b></b>
-<div>
-<h2 align= "center">Latest Activity Graph 📈</h2>
-  <br>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img align = "center" width="100%" alt="Azzar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=BizerraGuU&theme=github-compact&hide_border=true">
+  <!-- Social Links with colorful logos -->
+  <a href="https://stackoverflow.com/users/23498042/gustavo-bezerra" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
-  <br>
-</div>
+  <a href="https://www.linkedin.com/in/gustavo-bezerra-705b51216/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.reddit.com/user/BizarreG/" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+  </a>
 
-
-
-<div align="center" >
-<a href="https://10fastfingers.com/typing-test/portuguese"><img src="http://img.10fastfingers.com/badge/typing-test_4_CI.png" alt="Typing Test" /></a><p>Visite o <a href="https://10fastfingers.com/typing-test/portuguese">Teste de Digitação</a> e tente!</p>
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BizerraGuU&icon=0&color=9)](https://visitcount.itsvg.in)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<!-- SOBRE MIM -->
+### 👨‍💻 About Me
+
+I'm currently studying **Analysis and Systems Development** at *IFSP - Instituto Federal de São Paulo* and working as a **Full-Stack Python intern at Genesis Genomics**, under the guidance of Professor Deyvid Amgarten.
+
+I entered the programming field with a clear goal of building a solid career, and I’ve been investing daily to achieve that. I'm a fast learner, a good communicator, and always eager to improve myself by learning new technologies and professional skills.
+
+---
+
+<!-- STACKS -->
+<h2 align="center">🚀 Stacks & Tools</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
+
+---
+
+<!-- ESTATÍSTICAS -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img width="65%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BizerraGuU&theme=nord_dark&hide_border=false" />
+  <img width="31.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BizerraGuU&theme=nord_dark&hide_border=false" />
+</p>
+
+---
+
+<!-- ATIVIDADE -->
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BizerraGuU&theme=github-compact&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+<!-- DIGITAÇÃO -->
+<h2 align="center">⌨️ Typing Speed Challenge</h2>
+
+<p align="center">
+  <a href="https://10fastfingers.com/typing-test/portuguese" target="_blank">
+    <img src="http://img.10fastfingers.com/badge/typing-test_4_CI.png" alt="Typing Test" />
+    <br>
+    <strong>Test your typing speed and try to beat me!</strong>
+  </a>
+</p>
+
+---
+
+<!-- RODAPÉ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
