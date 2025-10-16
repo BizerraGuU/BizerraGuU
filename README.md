@@ -5,7 +5,7 @@
 <div align="center">
 
   <h1>Hi, I'm Gustavo 👋</h1>
-  <h3>| Full-Stack Developer | AI Enthusiast | Python & Django | Genesis Genomics |</h3>
+  <h3> | AI Intern | Python | AWS Basics | Genesis Genomics |</h3>
 
   <!-- Social Links with colorful logos -->
   <a href="https://stackoverflow.com/users/23498042/gustavo-bezerra" target="_blank">
